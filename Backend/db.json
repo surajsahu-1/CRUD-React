@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Suraj Kumar",
+      "company": "TCS",
+      "salary": "40005",
+      "id": 2
+    },
+    {
+      "name": "Abhishek",
+      "company": "Vipro",
+      "salary": "456654",
+      "id": 7
+    },
+    {
+      "name": "Gagan K ",
+      "company": "TCS",
+      "salary": "546564",
+      "id": 9
+    },
+    {
+      "name": "Suraj sahu",
+      "company": "jfhfbfh",
+      "salary": "8498498",
+      "id": 10
+    }
+  ]
+}
